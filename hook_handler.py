@@ -39,6 +39,7 @@ def main():
 
     except (ValueError, OSError) as error:
         print(f"Hook logging error: {error}", file=sys.stderr)
+        sys.exit(1)
 
 # the following two lines run main() when this script is executed directly, they are optionally added and could be removed.
 if __name__ == "__main__":
