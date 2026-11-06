@@ -1,1 +1,2 @@
 {"session_id": "test-session-123", "cwd": "C:/test-project", "hook_event_name": "PreToolUse", "tool_name": "Bash", "tool_input": {"command": "echo Hello"}, "tool_use_id": "tool-123", "captured_at": "2026-11-05T20:01:42.500844+00:00"}
+{"session_id": "test-session-123", "cwd": "C:/test-project", "hook_event_name": "PreToolUse", "tool_name": "Bash", "tool_input": {"command": "echo Hello"}, "tool_use_id": "tool-123", "captured_at": "2026-11-06T10:16:15.262638+00:00"}
